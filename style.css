@@ -1,17 +1,32 @@
-.red{
-    background-color: red;
-    height: 100px;
-    
+.card {
+    display: block;
+    width: 400px;
+    background-color: gray;
+    color: #892222;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border: 6px solid black;
+    border-radius: 30px;
 }
 
-.blue{
-    background-color: blue;
-    height: 100px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
+.follow-button {
+    display: block;
+    font-size: 20px;
+    font-weight:bold;
+    width: 140px;
+    color: black;
+    background-color: white;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border: 1.5px solid black;
+    border-radius: 18px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 
-.green{
-    background-color: green;
-    height: 100px;
+
 }
