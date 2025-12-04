@@ -1,8 +1,17 @@
- P {
-    color: aqua;
+.red{
+    background-color: red;
+    height: 100px;
+    
 }
 
-#list {
-    color: blue;
-    size: 30pt;
+.blue{
+    background-color: blue;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green{
+    background-color: green;
+    height: 100px;
 }
