@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+}
+
+.shinchan-image {
+    width: 250px;
+    margin-right: 90pt;
+}
+
+.main-card {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.card {
+    display: inline-flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.border {
+     border: 2px dotted blue;
+}
