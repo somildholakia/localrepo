@@ -1,5 +1,6 @@
 body {
     margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .shinchan-image {
@@ -9,16 +10,39 @@ body {
 
 .main-card {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     margin-top: 100px;
+    
+    
 }
 
 .card {
     display: inline-flex;
-    justify-content: center;
+    justify-content: space-around;
     padding: 20px;
+    text-align: center;
+     background-color: #ddebf8;
+      border-bottom: 8px solid #d8cefe;
 }
 
-.border {
-     border: 2px dotted blue;
+
+
+#front {
+    color: #2b2839;
+}
+
+.second {
+
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #Bc002D;
+    border-radius: 100%;
+
+
+    margin: 40px 0px 0px 100px;
 }
