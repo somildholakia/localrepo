@@ -12,7 +12,9 @@ body {
     margin-top: 90px;
     width: 500px;
     border-bottom: 5px solid #d90368;
+    border-radius: 7%;
     background-color: #ffccd5;
+    
 }
 
 .second-card {
