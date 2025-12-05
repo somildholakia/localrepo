@@ -1,48 +1,27 @@
 body {
     margin: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.shinchan-image {
-    width: 250px;
-    margin-right: 90pt;
-}
 
-.main-card {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 100px;
-    
-    
+.image{ 
+    width: 140px;
 }
 
 .card {
-    display: inline-flex;
-    justify-content: space-around;
-    padding: 20px;
-    text-align: center;
-     background-color: #ddebf8;
-      border-bottom: 8px solid #d8cefe;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
 }
 
-
-
-#front {
-    color: #2b2839;
+.second-card {
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
 }
 
-.second {
-
-    padding-bottom: 2px;
-    padding-top: 2px;
-}
-
-.circle {
-    width: 100px;
-    height: 100px;
-    background-color: #Bc002D;
-    border-radius: 100%;
-
-
-    margin: 40px 0px 0px 100px;
+.border2 {
+    border: 2px dotted red;
+    margin: 20px;
 }
